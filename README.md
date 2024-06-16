@@ -45,6 +45,7 @@ The following steps will guide you through the installation process for running 
 7. Open another terminal and run `npm install && npm run build` to install the required node modules
 8. Run `npm run dev` to compile the assets for development
 9. Open your browser and go to `http://localhost:8000` to view the application
+10. DUAAAAARRRR
 
 ## Submitting Assignment:
 
